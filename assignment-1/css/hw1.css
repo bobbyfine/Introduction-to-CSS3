@@ -1,0 +1,32 @@
+aside {
+	display: none;
+}
+header {
+	background: #939393;
+}
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	color: rgb(255, 255, 255);
+}
+h2 {
+	text-transform: uppercase;
+	color: rgb(0, 45, 179);
+	font-size: 220%;
+}
+nav a{
+	display: inline-block;
+	text-align: center;
+	background: rgb(217, 217, 217);
+	color: #000000;
+}
+section {
+	background: rgb(128, 128, 128);
+
+}
+
+section a{
+	background: rgb(217, 217, 217);
+	text-align: center;
+	color: #000000;
+}
